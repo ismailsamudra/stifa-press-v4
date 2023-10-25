@@ -13,7 +13,3 @@ System : [EasyLaravel V.2](https://github.com/laratealcorp/master_larateal_v.1.1
 </p>
 
 #
-[stifa_press.zip]()
-
-
-Kami memiliki banyak modul website yg akan kami share nantinya lewat form ini !
